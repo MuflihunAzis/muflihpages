@@ -745,15 +745,15 @@ Banner Style
 }
 
 .main-banner .item-1 {
-  background-image: url(../images/13.jpg);
-}
-
-.main-banner .item-2 {
   background-image: url(../images/banner-01.jpg);
 }
 
+.main-banner .item-2 {
+  background-image: url(../images/13.jpg);
+}
+
 .main-banner .item-3 {
-  background-image: url(../images/i2.jpg);
+  background-image: url(../images/24.jpg);
 }
 
 .main-banner .item span.category {
